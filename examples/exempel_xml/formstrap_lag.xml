@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SnapShot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="STRAP - FBK VUNNIT 1 AV LAST6" Color="Red" SignId="11">
+  <Cache>
+    <Fval Field="10">
+      <Value>Färjestad</Value>
+    </Fval>
+    <Fval Field="100">
+      <Table Reverse="false">
+        <Table>
+          <TableRow RowNr="1">
+            <Row>
+              <TableCell Name="1">
+                <Value>VUNNIT 1 AV DE 6 SENASTE MATCHERNA</Value>
+              </TableCell>
+              <TableCell Name="2">
+                <Value>|  TAGIT 5 AV 18 MÖJLIGA POÄNG</Value>
+              </TableCell>
+            </Row>
+          </TableRow>
+        </Table>
+      </Table>
+    </Fval>
+    <Fval Field="11">
+      <Value>FBK</Value>
+    </Fval>
+    <Fval Field="99">
+      <Value>1</Value>
+    </Fval>
+  </Cache>
+  <SiSelect xsi:nil="true" />
+  <HighlightQueue>
+    <Groups />
+  </HighlightQueue>
+  <HiddenFields Fields="12;13;200;300;400" />
+  <InfoFormatString>{0};10</InfoFormatString>
+</SnapShot>

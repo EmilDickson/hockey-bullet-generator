@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SnapShot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="LIST - INBÖRDES MÖTEN" Color="#00FF40" SignId="7">
+  <Cache>
+    <Fval Field="02">
+      <Value>SHL</Value>
+    </Fval>
+    <Fval Field="10">
+      <Value>INBÖRDES MÖTEN</Value>
+    </Fval>
+    <Fval Field="11">
+      <Value>2019/20</Value>
+    </Fval>
+    <Fval Field="50">
+      <Table Reverse="false">
+        <Table>
+          <TableRow RowNr="1">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="2">
+                <Value>SHL 2019/20</Value>
+              </TableCell>
+              <TableCell Name="3">
+                <Value />
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value>RESULTAT</Value>
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+        </Table>
+      </Table>
+    </Fval>
+    <Fval Field="51">
+      <Table Reverse="false">
+        <Table>
+          <TableRow RowNr="1">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="3">
+                <Value>14 sep 2019</Value>
+              </TableCell>
+              <TableCell Name="4">
+                <Value>Färjestad - Örebro</Value>
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value>4 - 6</Value>
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="2">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="3">
+                <Value>31 okt 2019</Value>
+              </TableCell>
+              <TableCell Name="4">
+                <Value>Örebro - Färjestad</Value>
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value>5 - 2</Value>
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+              <TableCell Name="9">
+                <Value>1</Value>
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="3">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="3">
+                <Value>1 feb 2020</Value>
+              </TableCell>
+              <TableCell Name="4">
+                <Value>Färjestad - Örebro</Value>
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value>(1 -1)</Value>
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="4">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="3">
+                <Value>18 feb 2020</Value>
+              </TableCell>
+              <TableCell Name="4">
+                <Value>Örebro - Färjestad</Value>
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value />
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="5">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="3">
+                <Value />
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value />
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="6">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="3">
+                <Value />
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value />
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="7">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="3">
+                <Value />
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value />
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="8">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="3">
+                <Value />
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value />
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="9">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="3">
+                <Value />
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value />
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="10">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="3">
+                <Value />
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value />
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="11">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="3">
+                <Value />
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value />
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="12">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="3">
+                <Value />
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value />
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+        </Table>
+      </Table>
+    </Fval>
+    <Fval Field="99">
+      <Value>4</Value>
+    </Fval>
+  </Cache>
+  <SiSelect>187</SiSelect>
+  <HighlightQueue>
+    <Groups />
+  </HighlightQueue>
+  <HiddenFields Fields="52" />
+  <InfoFormatString>{0} {1};2;50.2</InfoFormatString>
+</SnapShot>

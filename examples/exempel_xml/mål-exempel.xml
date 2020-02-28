@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SnapShot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="#14 BERGLUND - MÅL 2 RAKA" Color="#00FF40" SignId="11">
+  <Cache>
+    <Fval Field="10">
+      <Value>Jonas Berglund</Value>
+    </Fval>
+    <Fval Field="100">
+      <Table Reverse="false">
+        <Table>
+          <TableRow RowNr="1">
+            <Row>
+              <TableCell Name="1">
+                <Value>MÅL I 2 RAKA MATCHER  |  2 MÅL</Value>
+              </TableCell>
+              <TableCell Name="2">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+        </Table>
+      </Table>
+    </Fval>
+    <Fval Field="11">
+      <Value>LHF</Value>
+    </Fval>
+    <Fval Field="12">
+      <Value>14</Value>
+    </Fval>
+    <Fval Field="13">
+      <Value />
+    </Fval>
+    <Fval Field="99">
+      <Value>1</Value>
+    </Fval>
+  </Cache>
+  <SiSelect xsi:nil="true" />
+  <HighlightQueue>
+    <Groups />
+  </HighlightQueue>
+  <HiddenFields Fields="200;300;400" />
+  <InfoFormatString>[{1}]{2}.{0} {3};10;11;12;13</InfoFormatString>
+</SnapShot>

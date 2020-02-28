@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SnapShot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BP Form ticker" Color="#00FF40" SignId="118">
+  <Cache>
+    <Fval Field="04">
+      <Value>Boxplay  |  82.20% (6:a)</Value>
+    </Fval>
+    <Fval Field="100">
+      <Value>5 SENASTE MATCHERNA:  6 MÅL BAKÅT, 16 TILLFÄLLEN (62.50%)</Value>
+    </Fval>
+    <Fval Field="11">
+      <Value>FBK</Value>
+    </Fval>
+    <Fval Field="99" />
+    <Fval Field="12" />
+  </Cache>
+  <SiSelect xsi:nil="true" />
+  <HighlightQueue>
+    <Groups />
+  </HighlightQueue>
+  <HiddenFields Fields="101" />
+  <InfoFormatString>{0};04</InfoFormatString>
+</SnapShot>

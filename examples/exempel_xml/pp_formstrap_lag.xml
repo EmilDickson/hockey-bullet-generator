@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SnapShot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="PP Form ticker" Color="Red" SignId="118">
+  <Cache>
+    <Fval Field="04">
+      <Value>Powerplay  |  17.76% (10:a)</Value>
+    </Fval>
+    <Fval Field="100">
+      <Value>4 SENASTE MATCHERNA:  4 MÅL, 10 TILLFÄLLEN  (40.00%)</Value>
+    </Fval>
+    <Fval Field="11">
+      <Value>OHK</Value>
+    </Fval>
+    <Fval Field="99" />
+    <Fval Field="12" />
+  </Cache>
+  <SiSelect xsi:nil="true" />
+  <HighlightQueue>
+    <Groups />
+  </HighlightQueue>
+  <HiddenFields Fields="101" />
+  <InfoFormatString>{0};04</InfoFormatString>
+</SnapShot>

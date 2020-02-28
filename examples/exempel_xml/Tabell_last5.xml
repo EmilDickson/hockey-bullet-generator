@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SnapShot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="List - TABELL LAST5" Color="#00FF40" SignId="7">
+  <Cache>
+    <Fval Field="02">
+      <Value>SHL</Value>
+    </Fval>
+    <Fval Field="10">
+      <Value>TABELLEN</Value>
+    </Fval>
+    <Fval Field="11">
+      <Value>De 5 senaste matcherna</Value>
+    </Fval>
+    <Fval Field="50">
+      <Table Reverse="false">
+        <Table>
+          <TableRow RowNr="1">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="2">
+                <Value>SHL 2019/20</Value>
+              </TableCell>
+              <TableCell Name="3">
+                <Value />
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value>W</Value>
+              </TableCell>
+              <TableCell Name="6">
+                <Value>L</Value>
+              </TableCell>
+              <TableCell Name="7">
+                <Value>+/-</Value>
+              </TableCell>
+              <TableCell Name="8">
+                <Value>TP</Value>
+              </TableCell>
+            </Row>
+          </TableRow>
+        </Table>
+      </Table>
+    </Fval>
+    <Fval Field="51">
+      <Table Reverse="false">
+        <Table>
+          <TableRow RowNr="1">
+            <Row>
+              <TableCell Name="1">
+                <Value>1</Value>
+              </TableCell>
+              <TableCell Name="3">
+                <Value>Djurgården</Value>
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value>5</Value>
+              </TableCell>
+              <TableCell Name="6">
+                <Value>0</Value>
+              </TableCell>
+              <TableCell Name="7">
+                <Value>+9</Value>
+              </TableCell>
+              <TableCell Name="8">
+                <Value>15</Value>
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="2">
+            <Row>
+              <TableCell Name="1">
+                <Value>2</Value>
+              </TableCell>
+              <TableCell Name="3">
+                <Value>Luleå</Value>
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value>4</Value>
+              </TableCell>
+              <TableCell Name="6">
+                <Value>1</Value>
+              </TableCell>
+              <TableCell Name="7">
+                <Value>+11</Value>
+              </TableCell>
+              <TableCell Name="8">
+                <Value>12</Value>
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="3">
+            <Row>
+              <TableCell Name="1">
+                <Value>3</Value>
+              </TableCell>
+              <TableCell Name="3">
+                <Value>Linköping</Value>
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value>3</Value>
+              </TableCell>
+              <TableCell Name="6">
+                <Value>2</Value>
+              </TableCell>
+              <TableCell Name="7">
+                <Value>+6</Value>
+              </TableCell>
+              <TableCell Name="8">
+                <Value>10</Value>
+              </TableCell>
+              <TableCell Name="9">
+                <Value>1</Value>
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="4">
+            <Row>
+              <TableCell Name="1">
+                <Value>11</Value>
+              </TableCell>
+              <TableCell Name="3">
+                <Value>Örebro</Value>
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value>2</Value>
+              </TableCell>
+              <TableCell Name="6">
+                <Value>3</Value>
+              </TableCell>
+              <TableCell Name="7">
+                <Value>-7</Value>
+              </TableCell>
+              <TableCell Name="8">
+                <Value>6</Value>
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="5">
+            <Row>
+              <TableCell Name="1">
+                <Value>12</Value>
+              </TableCell>
+              <TableCell Name="3">
+                <Value>Färjestad</Value>
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value>1</Value>
+              </TableCell>
+              <TableCell Name="6">
+                <Value>4</Value>
+              </TableCell>
+              <TableCell Name="7">
+                <Value>-6</Value>
+              </TableCell>
+              <TableCell Name="8">
+                <Value>4</Value>
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="6">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="3">
+                <Value />
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value />
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+          <TableRow RowNr="7">
+            <Row>
+              <TableCell Name="1">
+                <Value />
+              </TableCell>
+              <TableCell Name="3">
+                <Value />
+              </TableCell>
+              <TableCell Name="4">
+                <Value />
+              </TableCell>
+              <TableCell Name="5">
+                <Value />
+              </TableCell>
+              <TableCell Name="6">
+                <Value />
+              </TableCell>
+              <TableCell Name="7">
+                <Value />
+              </TableCell>
+              <TableCell Name="8">
+                <Value />
+              </TableCell>
+              <TableCell Name="9">
+                <Value />
+              </TableCell>
+            </Row>
+          </TableRow>
+        </Table>
+      </Table>
+    </Fval>
+    <Fval Field="99">
+      <Value>5</Value>
+    </Fval>
+  </Cache>
+  <SiSelect xsi:nil="true" />
+  <HighlightQueue>
+    <Groups>
+      <HighlightGroup>
+        <Rows>
+          <IHighlight xsi:type="FixedHighlightRow" TableKey="51" RowNr="5" ColNr="0" />
+          <IHighlight xsi:type="FixedHighlightRow" TableKey="51" RowNr="4" ColNr="0" />
+        </Rows>
+      </HighlightGroup>
+    </Groups>
+  </HighlightQueue>
+  <HiddenFields Fields="52" />
+</SnapShot>
